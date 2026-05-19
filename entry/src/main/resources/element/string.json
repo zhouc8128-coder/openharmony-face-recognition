@@ -1,0 +1,1 @@
+{\n  "string": [\n    {\n      "name": "MainAbility_label",\n      "value": "Face Recognition"\n    },\n    {\n      "name": "MainAbility_desc",\n      "value": "OpenHarmony Face Recognition Application"\n    },\n    {\n      "name": "app_name",\n      "value": "FaceRecognition"\n    }\n  ]\n}
