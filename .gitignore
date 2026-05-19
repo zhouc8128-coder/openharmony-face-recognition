@@ -1,0 +1,28 @@
+# Build
+build/
+.gradle/
+*.hap
+*.haps
+*.har
+
+# DevEco Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS
+Thumbs.db
+.DS_Store
